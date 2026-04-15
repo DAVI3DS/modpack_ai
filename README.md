@@ -1,3 +1,5 @@
+#Em manutenção.
+
 # Modpack AI (Forge)
 
 Aplicacao local em Python 3.11+ com GUI Tkinter para gerar listas de mods Forge com foco em estabilidade.
